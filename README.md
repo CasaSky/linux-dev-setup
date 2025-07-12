@@ -22,7 +22,7 @@ chmod +x setup.sh
 ### Development Tools (via Homebrew)
 - **Git & GitHub CLI**: Version control and GitHub integration
 - **Node.js**: JavaScript runtime and npm package manager
-- **Python 3.12**: Latest Python with pip
+- **Python**: Latest Python version with pip
 - **Go**: Go programming language
 - **Build tools**: GCC and essential compilation tools
 

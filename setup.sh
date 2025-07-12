@@ -91,7 +91,8 @@ install_dev_tools() {
     log_info "Installing development tools via Homebrew..."
     
     # Core development tools
-    brew install gh node python@3.12 go
+    log_info "Installing latest Python version available..."
+    brew install gh node python go
     
     # CLI utilities
     brew install tree htop ripgrep fd fzf
